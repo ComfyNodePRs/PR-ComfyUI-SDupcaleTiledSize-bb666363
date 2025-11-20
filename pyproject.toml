@@ -28,7 +28,7 @@ Documentation = "https://github.com/Windecay/ComfyUI-SDupcaleTiledSize/wiki"
 "Bug Tracker" = "https://github.com/Windecay/ComfyUI-SDupcaleTiledSize/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "windecay"
 DisplayName = "ComfyUI-SDupcaleTiledSize"
 Icon = ""
 includes = [] 
